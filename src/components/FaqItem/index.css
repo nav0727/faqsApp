@@ -1,0 +1,27 @@
+.list-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #d7dae6;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 5px 20px 5px 20px;
+}
+.list {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 20px 5px 20px;
+}
+.btn {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+.heading {
+  color: #52606d;
+  font-size: medium;
+}
+.para {
+  color: #9aa5b1;
+  font-size: medium;
+}
